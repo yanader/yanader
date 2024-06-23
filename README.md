@@ -1,16 +1,25 @@
-## Hi there 👋
+### I'm Ste, a student on Northcoder's Java Development Bootcamp
 
-<!--
-**yanader/yanader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently looking to career-change from my career in Reporting & Analytics into Software Development
 
-Here are some ideas to get you started:
+#### Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An [Android app](https://github.com/yanader/recordstoreapp) for a [record shop API](https://github.com/yanader/recordshopAPI)
+
+Northcoders final project
+
+Coursera's Data Structures & Algorithms (/w Princeton University)
+
+#### Past projects
+
+A diary web app to record my visits to [West Didsbury & Chorlton AFC](https://yanader.pythonanywhere.com/watchingwest/)
+
+A browser-based recreation of boardgame puzzle [Mutant Meeples](https://andothergames.github.io/MM/)
+
+
+
+
+
+
+
+
