@@ -4,17 +4,17 @@ I'm currently looking to career-change from my career in Reporting & Analytics i
 
 #### Currently working on:
 
-An [Android app](https://github.com/yanader/recordstoreapp) for a [record shop API](https://github.com/yanader/recordshopAPI)
+🎧 An [Android app](https://github.com/yanader/recordstoreapp) for a [record shop API](https://github.com/yanader/recordshopAPI) 
 
-My Northcoders final project
+- My Northcoders final project
 
-Coursera's Data Structures & Algorithms (/w Princeton University)
+- Coursera's Data Structures & Algorithms (/w Princeton University)
 
 #### Past projects
 
-A diary web app to record my visits to [West Didsbury & Chorlton AFC](https://yanader.pythonanywhere.com/watchingwest/)
+⚽ A diary web app to record my visits to [West Didsbury & Chorlton AFC](https://yanader.pythonanywhere.com/watchingwest/)
 
-A browser-based recreation of boardgame puzzle [Mutant Meeples](https://andothergames.github.io/MM/)
+🎲 A browser-based recreation of boardgame puzzle [Mutant Meeples](https://andothergames.github.io/MM/)
 
 
 
