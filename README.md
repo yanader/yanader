@@ -6,7 +6,7 @@ I'm currently looking to career-change from my career in Reporting & Analytics i
 
 🎧 An [Android app](https://github.com/yanader/recordstoreapp) for a [record shop API](https://github.com/yanader/recordshopAPI) 
 
-- My Northcoders final project
+❔ My Northcoders final project
 
 🧮 Coursera's Data Structures & Algorithms (/w Princeton University)
 
