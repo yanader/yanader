@@ -8,7 +8,7 @@ I'm currently looking to career-change from my career in Reporting & Analytics i
 
 - My Northcoders final project
 
-- Coursera's Data Structures & Algorithms (/w Princeton University)
+🧮 Coursera's Data Structures & Algorithms (/w Princeton University)
 
 #### Past projects
 
