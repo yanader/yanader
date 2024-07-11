@@ -6,7 +6,7 @@ I'm currently looking to career-change from my career in Reporting & Analytics i
 
 🎧 An [Android app](https://github.com/yanader/recordstoreapp) for a [record shop API](https://github.com/yanader/recordshopAPI) 
 
-❔ My Northcoders final project, **Surfeillane**, a collaborative [Spring Boot backend](https://github.com/AeratedAutoclave/surfeillance) and [Android frontend](https://github.com/AeratedAutoclave/surfeillance-frontend) for data provision relating to UK surf spots
+❔ My Northcoders final project, **Surfeillance**, a collaborative [Spring Boot backend](https://github.com/AeratedAutoclave/surfeillance) and [Android frontend](https://github.com/AeratedAutoclave/surfeillance-frontend) for data provision relating to UK surf spots
 
 🧮 Coursera's Data Structures & Algorithms (/w Princeton University)
 
