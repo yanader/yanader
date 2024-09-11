@@ -1,4 +1,4 @@
-### I'm Ste, a student on Northcoder's Java Development Bootcamp
+### I'm Ste, a former student on Northcoder's Java Development Bootcamp
 
 I'm currently looking to career-change from my career in Reporting & Analytics into Software Development
 
