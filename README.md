@@ -4,7 +4,7 @@ I'm a career-changer moving from Reporting & Analytics into Software Development
 
 #### Currently working on:
 
-📷 PhotoLeague. A website where friends can compete over who is the best photographer
+📷 PhotoLeague. A website where friends can compete over who is the best photographer [Spring backend](https://github.com/yanader/photoleague-be) & [React frontend](https://github.com/andothergames/photoleague-fe)
 
 🧮 Coursera's Data Structures & Algorithms (/w Princeton University)
 
